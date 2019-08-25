@@ -1,0 +1,5 @@
+{
+    "file" :"YOUR FILE PATH HERE",
+    "threshold" : YOUR THRESHOLD NUMBER HERE,
+    "scoring_threshold" : YOUR SCORING THRESHOLD HERE
+}
